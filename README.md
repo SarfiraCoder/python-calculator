@@ -46,7 +46,8 @@ That’s it! The calculator window will appear and you can start using it.
 
 ## 🌱 Future Enhancements
 
-- Add scientific operations (square root, power, percentage)  
+- Add scientific operations (square root, power, percentage)
+- Include keyboard input support
 - Implement dark/light mode themes  
 
 ---
