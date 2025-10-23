@@ -53,7 +53,7 @@ That’s it! The calculator window will appear and you can start using it.
 
 ## 🧑‍💻 Author
 
-**☞ LinkedIn : [Prit](www.linkedin.com/in/devprit)**
+**☞ LinkedIn : [Prit](https://www.linkedin.com/in/devprit/)**
 
 **☞ GitHub : [Prit](https://github.com/SarfiraCoder)**
 
