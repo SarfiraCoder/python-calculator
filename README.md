@@ -26,7 +26,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 1. **Clone this repository :**
 ```
-git clone https://github.com/SarfiraCoder/python-calculator.git
+git clone https://github.com/iDevPrit/python-calculator.git
 ```
 
 2. **Navigate to the project directory :**
